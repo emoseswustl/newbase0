@@ -3,6 +3,7 @@ package studio0;
 public class Message {
 
 	public static void main(String args[]) {
-		System.out.println("Hi y'all!!!!");
+		System.out.println("peepeepoopoo");
+		
 	}
 }
